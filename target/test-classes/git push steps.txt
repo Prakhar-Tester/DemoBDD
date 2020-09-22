@@ -1,0 +1,8 @@
+using git bash
+git init at project location
+remote add repo https url
+git status
+git add .
+git commit -m ""
+
+git push -f origin master
