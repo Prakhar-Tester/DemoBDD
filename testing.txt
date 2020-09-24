@@ -1,1 +1,0 @@
-bin  pom.xml  src  target  testing.txt
